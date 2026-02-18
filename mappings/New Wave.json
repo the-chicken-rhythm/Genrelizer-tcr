@@ -2,7 +2,7 @@
   "name": "New Wave",
 
   "substitutions": {
-    " ": [ "-", "" ]
+    " ": [ "-", "", "_" ]
   },
 
   "subgenres": {
