@@ -47,6 +47,12 @@
 
     "Sound Collage": {},
 
+    "Soundclown": {
+      "substitutions": {
+        "clown": [ " clown", "-clown" ]
+      }
+    },
+
     "Turntablism": {},
 
     "Various": {
