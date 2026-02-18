@@ -73,6 +73,13 @@
 
     "Hard Dance": {},
 
+    "Hardcore Chiptune": {
+      "substitutions": {
+        "core": [ " core", "-core" ],
+        "tune": [ " tune", "-tune" ]
+      }
+    },
+
     "Hardcore Dance": {
       "substitutions": {
         "core": [ " core", "-core" ]
