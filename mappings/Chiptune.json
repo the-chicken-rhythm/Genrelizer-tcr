@@ -71,6 +71,13 @@
         "orchestral": [ "orchestra", "orchestration", "orch", "orch." ],
         "chiptune": [ "chip tune", "chip-tune" ]
       }
+    },
+
+    "Thrash 8-Bit": {
+      "substitutions": {
+        "8-": [ "8", "8 ", "eight", "eight ", "eight-" ]
+      },
+      "suffixes": [ " chiptune", " chip tune", " chip-tune" ]
     }
   }
 }
