@@ -21,6 +21,12 @@
 
     "Electronicore": {},
 
+	"Partycore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
     "Melodic Metalcore": {
       "substitutions": {
         "metal": [ "metal ", "metal-" ]
