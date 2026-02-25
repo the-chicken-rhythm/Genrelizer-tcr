@@ -139,6 +139,12 @@
       }
     },
 
+    "Shredwave": {
+      "substitutions": {
+        "shred": [ "shred ", "shred-" ]
+      }
+    },
+
     "Skweee": {
       "substitutions": {
         "eee": [ "ee", "eeee" ]

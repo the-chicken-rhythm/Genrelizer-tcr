@@ -128,6 +128,14 @@
       }
     },
 
+    "Hardcore Techno-Punk": {
+      "substitutions": {
+        "core": [ " core", "-core" ],
+        "techno-": [ "techno", "techno " ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
     "Horror Punk": {
       "substitutions": {
         " punk": [ "punk", "-punk" ]

@@ -148,6 +148,12 @@
 
     "Emergency Funk": {},
 
+    "FM Funk" : {
+      "substitutions": {
+        "fm": [ "fm synth", "fm synthesis", "frequency modulation", "frequency modulation synthesis" ]
+      }
+    },
+
     "Free Funk": {
       "substitutions": {
         "free": [ "freeform" ]

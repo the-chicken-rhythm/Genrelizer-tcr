@@ -14,6 +14,12 @@
       }
     },
 
+    "Electronic Mashup": {
+      "substitutions": {
+        "mashup": [ "mash up", "mash-up" ]
+      }
+    },
+
     "Endless Setlist": {},
 
     "Guitar Turntablism": {},

@@ -116,6 +116,12 @@
       }
     },
 
+    "J-Core": {
+      "substitutions": {
+        "j-": [ "j", "j " ]
+      }
+    },
+
     "Lento Violento": {
       "substitutions": {
         " violento": [ "" ]
